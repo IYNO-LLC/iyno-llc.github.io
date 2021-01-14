@@ -1,0 +1,9 @@
+[ {
+  "buildOrder" : 18,
+  "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/18/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 3,
+    "retry" : 0
+  }
+} ]

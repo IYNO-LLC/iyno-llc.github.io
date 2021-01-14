@@ -1,0 +1,46 @@
+{
+  "uid" : "1aa66dd57c293f6d",
+  "name" : "Passed",
+  "fullName" : "Good test.Passed",
+  "historyId" : "acf4fb14e391e068d194ed44959a65e8",
+  "time" : {
+    "start" : 1610633209760,
+    "stop" : 1610633209761,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Good test"
+  }, {
+    "name" : "testClass",
+    "value" : "Good test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Passed"
+  }, {
+    "name" : "package",
+    "value" : "Good test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1aa66dd57c293f6d.json",
+  "parameterValues" : [ ]
+}
