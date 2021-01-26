@@ -1,0 +1,66 @@
+{
+  "uid" : "fb5c899b106e6c0d",
+  "name" : "Passed",
+  "fullName" : "Good test.Passed",
+  "historyId" : "acf4fb14e391e068d194ed44959a65e8",
+  "time" : {
+    "start" : 1610633843275,
+    "stop" : 1610633843276,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Good test"
+  }, {
+    "name" : "testClass",
+    "value" : "Good test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Passed"
+  }, {
+    "name" : "package",
+    "value" : "Good test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "1aa66dd57c293f6d",
+        "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/18//#testresult/1aa66dd57c293f6d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1610633209760,
+          "stop" : 1610633209761,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "fb5c899b106e6c0d.json",
+  "parameterValues" : [ ]
+}
