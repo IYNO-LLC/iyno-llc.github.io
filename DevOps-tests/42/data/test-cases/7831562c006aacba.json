@@ -1,0 +1,35 @@
+{
+  "uid" : "7831562c006aacba",
+  "name" : "Token is undefined by default",
+  "fullName" : "Token is undefined by default",
+  "historyId" : "644bfdd37a99b8c14d7188fc4611bdbc",
+  "time" : {
+    "start" : 1611660339526,
+    "stop" : 1611660339527,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Testing token"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7831562c006aacba.json",
+  "parameterValues" : [ ]
+}
