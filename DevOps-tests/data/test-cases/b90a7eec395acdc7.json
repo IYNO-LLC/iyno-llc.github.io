@@ -1,12 +1,12 @@
 {
-  "uid" : "a24b84012c49cf77",
-  "name" : "Passed",
-  "fullName" : "Passed",
-  "historyId" : "9897df04ebe5e507b4af2aa18af1142f",
+  "uid" : "b90a7eec395acdc7",
+  "name" : "Token is undefined by default",
+  "fullName" : "Token is undefined by default",
+  "historyId" : "644bfdd37a99b8c14d7188fc4611bdbc",
   "time" : {
-    "start" : 1611656168139,
-    "stop" : 1611656168141,
-    "duration" : 2
+    "start" : 1611656343572,
+    "stop" : 1611656343573,
+    "duration" : 1
   },
   "status" : "passed",
   "flaky" : false,
@@ -15,7 +15,7 @@
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "parentSuite",
-    "value" : "Good test"
+    "value" : "Testing token"
   }, {
     "name" : "resultFormat",
     "value" : "allure2"
@@ -30,6 +30,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "a24b84012c49cf77.json",
+  "source" : "b90a7eec395acdc7.json",
   "parameterValues" : [ ]
 }

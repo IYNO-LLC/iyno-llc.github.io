@@ -4,12 +4,12 @@
     "name" : "Good test",
     "children" : [ {
       "name" : "Passed",
-      "uid" : "a24b84012c49cf77",
+      "uid" : "5fc9011324fb072b",
       "parentUid" : "bba9fe2d851b324e055c8ee07eaf5f0b",
       "status" : "passed",
       "time" : {
-        "start" : 1611656168139,
-        "stop" : 1611656168141,
+        "start" : 1611656343563,
+        "stop" : 1611656343565,
         "duration" : 2
       },
       "flaky" : false,
@@ -21,13 +21,13 @@
     "name" : "Bad test",
     "children" : [ {
       "name" : "Failed",
-      "uid" : "58cddc6e72b038c6",
+      "uid" : "357cbe600d6f9666",
       "parentUid" : "373511302090aa6f43745ab69756870e",
       "status" : "failed",
       "time" : {
-        "start" : 1611656168142,
-        "stop" : 1611656168146,
-        "duration" : 4
+        "start" : 1611656343566,
+        "stop" : 1611656343572,
+        "duration" : 6
       },
       "flaky" : false,
       "newFailed" : false,
@@ -38,12 +38,12 @@
     "name" : "Testing token",
     "children" : [ {
       "name" : "Token is undefined by default",
-      "uid" : "3fbac11d1ea12e4e",
+      "uid" : "b90a7eec395acdc7",
       "parentUid" : "f25fdaed6361e9a5075b94cafc7f0c2b",
       "status" : "passed",
       "time" : {
-        "start" : 1611656168146,
-        "stop" : 1611656168147,
+        "start" : 1611656343572,
+        "stop" : 1611656343573,
         "duration" : 1
       },
       "flaky" : false,

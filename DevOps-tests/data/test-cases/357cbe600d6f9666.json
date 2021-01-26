@@ -1,12 +1,12 @@
 {
-  "uid" : "58cddc6e72b038c6",
+  "uid" : "357cbe600d6f9666",
   "name" : "Failed",
   "fullName" : "Failed",
   "historyId" : "cf4d66ba02b26ac25b6cc55dd737b789",
   "time" : {
-    "start" : 1611656168142,
-    "stop" : 1611656168146,
-    "duration" : 4
+    "start" : 1611656343566,
+    "stop" : 1611656343572,
+    "duration" : 6
   },
   "status" : "failed",
   "statusMessage" : "expected 'REQUEST_ERROR' to be an array",
@@ -36,6 +36,6 @@
     } ],
     "tags" : [ ]
   },
-  "source" : "58cddc6e72b038c6.json",
+  "source" : "357cbe600d6f9666.json",
   "parameterValues" : [ ]
 }

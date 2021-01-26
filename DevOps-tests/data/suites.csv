@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Jan 26 10:16:08 GMT 2021","Tue Jan 26 10:16:08 GMT 2021","1","Testing token","","","","","Token is undefined by default",""
-"failed","Tue Jan 26 10:16:08 GMT 2021","Tue Jan 26 10:16:08 GMT 2021","4","Bad test","","","","","Failed",""
-"passed","Tue Jan 26 10:16:08 GMT 2021","Tue Jan 26 10:16:08 GMT 2021","2","Good test","","","","","Passed",""
+"passed","Tue Jan 26 10:19:03 GMT 2021","Tue Jan 26 10:19:03 GMT 2021","1","Testing token","","","","","Token is undefined by default",""
+"passed","Tue Jan 26 10:19:03 GMT 2021","Tue Jan 26 10:19:03 GMT 2021","2","Good test","","","","","Passed",""
+"failed","Tue Jan 26 10:19:03 GMT 2021","Tue Jan 26 10:19:03 GMT 2021","6","Bad test","","","","","Failed",""

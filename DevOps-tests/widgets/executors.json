@@ -2,9 +2,9 @@
   "name" : "GitHub Actions",
   "type" : "github",
   "url" : "https://IYNO-LLC.github.io/DevOps-tests",
-  "buildOrder" : 28,
-  "buildName" : "GitHub Actions Run #511814653",
-  "buildUrl" : "https://github.com/IYNO-LLC/DevOps-tests/actions/runs/511814653",
+  "buildOrder" : 29,
+  "buildName" : "GitHub Actions Run #511821676",
+  "buildUrl" : "https://github.com/IYNO-LLC/DevOps-tests/actions/runs/511821676",
   "reportName" : "Allure Report with history",
-  "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/28/"
+  "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/29/"
 } ]

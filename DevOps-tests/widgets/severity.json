@@ -1,30 +1,30 @@
 [ {
-  "uid" : "58cddc6e72b038c6",
+  "uid" : "357cbe600d6f9666",
   "name" : "Failed",
   "time" : {
-    "start" : 1611656168142,
-    "stop" : 1611656168146,
-    "duration" : 4
+    "start" : 1611656343566,
+    "stop" : 1611656343572,
+    "duration" : 6
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "3fbac11d1ea12e4e",
-  "name" : "Token is undefined by default",
+  "uid" : "5fc9011324fb072b",
+  "name" : "Passed",
   "time" : {
-    "start" : 1611656168146,
-    "stop" : 1611656168147,
-    "duration" : 1
+    "start" : 1611656343563,
+    "stop" : 1611656343565,
+    "duration" : 2
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a24b84012c49cf77",
-  "name" : "Passed",
+  "uid" : "b90a7eec395acdc7",
+  "name" : "Token is undefined by default",
   "time" : {
-    "start" : 1611656168139,
-    "stop" : 1611656168141,
-    "duration" : 2
+    "start" : 1611656343572,
+    "stop" : 1611656343573,
+    "duration" : 1
   },
   "status" : "passed",
   "severity" : "normal"

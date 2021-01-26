@@ -1,8 +1,8 @@
 [ {
-  "buildOrder" : 28,
-  "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/28/",
+  "buildOrder" : 29,
+  "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/29/",
   "reportName" : "Allure Report with history",
   "data" : {
-    "duration" : 8
+    "duration" : 10
   }
 } ]

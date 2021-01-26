@@ -6,13 +6,13 @@
       "name" : "expected 'REQUEST_ERROR' to be an array",
       "children" : [ {
         "name" : "Failed",
-        "uid" : "58cddc6e72b038c6",
+        "uid" : "357cbe600d6f9666",
         "parentUid" : "460a34ce10391c5d6523fcc71a69f752",
         "status" : "failed",
         "time" : {
-          "start" : 1611656168142,
-          "stop" : 1611656168146,
-          "duration" : 4
+          "start" : 1611656343566,
+          "stop" : 1611656343572,
+          "duration" : 6
         },
         "flaky" : false,
         "newFailed" : false,
