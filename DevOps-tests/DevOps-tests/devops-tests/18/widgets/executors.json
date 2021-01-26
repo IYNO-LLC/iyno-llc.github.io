@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://IYNO-LLC.github.io/DevOps-tests",
+  "buildOrder" : 18,
+  "buildName" : "GitHub Actions Run #485536714",
+  "buildUrl" : "https://github.com/IYNO-LLC/DevOps-tests/actions/runs/485536714",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/18/"
+} ]
