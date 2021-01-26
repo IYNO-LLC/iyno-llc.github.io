@@ -1,0 +1,63 @@
+{
+  "9897df04ebe5e507b4af2aa18af1142f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a24b84012c49cf77",
+      "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/28//#testresult/a24b84012c49cf77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611656168139,
+        "stop" : 1611656168141,
+        "duration" : 2
+      }
+    } ]
+  },
+  "cf4d66ba02b26ac25b6cc55dd737b789" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "58cddc6e72b038c6",
+      "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/28//#testresult/58cddc6e72b038c6",
+      "status" : "failed",
+      "statusDetails" : "expected 'REQUEST_ERROR' to be an array",
+      "time" : {
+        "start" : 1611656168142,
+        "stop" : 1611656168146,
+        "duration" : 4
+      }
+    } ]
+  },
+  "644bfdd37a99b8c14d7188fc4611bdbc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3fbac11d1ea12e4e",
+      "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/28//#testresult/3fbac11d1ea12e4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611656168146,
+        "stop" : 1611656168147,
+        "duration" : 1
+      }
+    } ]
+  }
+}

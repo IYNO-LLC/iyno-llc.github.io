@@ -1,0 +1,56 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Good test",
+    "children" : [ {
+      "name" : "Passed",
+      "uid" : "a24b84012c49cf77",
+      "parentUid" : "bba9fe2d851b324e055c8ee07eaf5f0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611656168139,
+        "stop" : 1611656168141,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "bba9fe2d851b324e055c8ee07eaf5f0b"
+  }, {
+    "name" : "Bad test",
+    "children" : [ {
+      "name" : "Failed",
+      "uid" : "58cddc6e72b038c6",
+      "parentUid" : "373511302090aa6f43745ab69756870e",
+      "status" : "failed",
+      "time" : {
+        "start" : 1611656168142,
+        "stop" : 1611656168146,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "373511302090aa6f43745ab69756870e"
+  }, {
+    "name" : "Testing token",
+    "children" : [ {
+      "name" : "Token is undefined by default",
+      "uid" : "3fbac11d1ea12e4e",
+      "parentUid" : "f25fdaed6361e9a5075b94cafc7f0c2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611656168146,
+        "stop" : 1611656168147,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f25fdaed6361e9a5075b94cafc7f0c2b"
+  } ],
+  "name" : "suites"
+}
