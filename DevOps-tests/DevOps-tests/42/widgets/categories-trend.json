@@ -1,11 +1,4 @@
 [ {
-  "buildOrder" : 49,
-  "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/49/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "Product defects" : 1
-  }
-}, {
   "buildOrder" : 42,
   "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/42/",
   "reportName" : "Allure Report with history",

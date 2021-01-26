@@ -1,15 +1,17 @@
 [ {
-  "buildOrder" : 49,
-  "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/49/",
+  "buildOrder" : 48,
+  "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/48/",
   "reportName" : "Allure Report with history",
   "data" : {
-    "duration" : 7
+    "run" : 3,
+    "retry" : 0
   }
 }, {
   "buildOrder" : 42,
   "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/42/",
   "reportName" : "Allure Report with history",
   "data" : {
-    "duration" : 8
+    "run" : 3,
+    "retry" : 0
   }
 } ]

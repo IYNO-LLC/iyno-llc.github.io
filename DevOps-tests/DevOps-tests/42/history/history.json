@@ -4,20 +4,11 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 1,
       "unknown" : 0,
-      "total" : 2
+      "total" : 1
     },
     "items" : [ {
-      "uid" : "e4687903f64c20bb",
-      "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/49//#testresult/e4687903f64c20bb",
-      "status" : "passed",
-      "time" : {
-        "start" : 1611663799896,
-        "stop" : 1611663799897,
-        "duration" : 1
-      }
-    }, {
       "uid" : "55f5d95cf30ad587",
       "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/42//#testresult/55f5d95cf30ad587",
       "status" : "passed",
@@ -30,24 +21,14 @@
   },
   "cf4d66ba02b26ac25b6cc55dd737b789" : {
     "statistic" : {
-      "failed" : 2,
+      "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 1
     },
     "items" : [ {
-      "uid" : "cf77eca6a5dbefcb",
-      "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/49//#testresult/cf77eca6a5dbefcb",
-      "status" : "failed",
-      "statusDetails" : "expected 'REQUEST_ERROR' to be an array",
-      "time" : {
-        "start" : 1611663799898,
-        "stop" : 1611663799902,
-        "duration" : 4
-      }
-    }, {
       "uid" : "fc483675524739c",
       "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/42//#testresult/fc483675524739c",
       "status" : "failed",
@@ -64,20 +45,11 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 1,
       "unknown" : 0,
-      "total" : 2
+      "total" : 1
     },
     "items" : [ {
-      "uid" : "58fa3a5e68b38780",
-      "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/49//#testresult/58fa3a5e68b38780",
-      "status" : "passed",
-      "time" : {
-        "start" : 1611663799902,
-        "stop" : 1611663799903,
-        "duration" : 1
-      }
-    }, {
       "uid" : "7831562c006aacba",
       "reportUrl" : "https://IYNO-LLC.github.io/DevOps-tests/42//#testresult/7831562c006aacba",
       "status" : "passed",
