@@ -1,0 +1,35 @@
+{
+  "uid" : "3c03c046f222ec46",
+  "name" : "Passed",
+  "fullName" : "Passed",
+  "historyId" : "9897df04ebe5e507b4af2aa18af1142f",
+  "time" : {
+    "start" : 1611786504420,
+    "stop" : 1611786504422,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Good test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c03c046f222ec46.json",
+  "parameterValues" : [ ]
+}
