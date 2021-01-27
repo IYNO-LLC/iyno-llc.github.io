@@ -1,0 +1,31 @@
+[ {
+  "uid" : "7fd2a720b068854b",
+  "name" : "Failed",
+  "time" : {
+    "start" : 1611786068253,
+    "stop" : 1611786068257,
+    "duration" : 4
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3413231f51040f6f",
+  "name" : "Passed",
+  "time" : {
+    "start" : 1611786068251,
+    "stop" : 1611786068252,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7fe51eb54b03ee5b",
+  "name" : "Token is undefined by default",
+  "time" : {
+    "start" : 1611786068258,
+    "stop" : 1611786068258,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
