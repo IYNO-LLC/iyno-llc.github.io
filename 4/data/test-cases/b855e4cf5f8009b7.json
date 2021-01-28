@@ -1,0 +1,72 @@
+{
+  "uid" : "b855e4cf5f8009b7",
+  "name" : "Failed",
+  "fullName" : "Failed",
+  "historyId" : "cf4d66ba02b26ac25b6cc55dd737b789",
+  "time" : {
+    "start" : 1611831746965,
+    "stop" : 1611831746969,
+    "duration" : 4
+  },
+  "status" : "failed",
+  "statusMessage" : "expected 'REQUEST_ERROR' to be an array",
+  "statusTrace" : "AssertionError: expected 'REQUEST_ERROR' to be an array\n    at Context.<anonymous> (src/utils/requests.test.ts:11:54)\n    at processImmediate (internal/timers.js:461:21)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Bad test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 3,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "852982a84aa83678",
+        "reportUrl" : "https://IYNO-LLC.github.io//3//#testresult/852982a84aa83678",
+        "status" : "failed",
+        "statusDetails" : "expected 'REQUEST_ERROR' to be an array",
+        "time" : {
+          "start" : 1611831610023,
+          "stop" : 1611831610027,
+          "duration" : 4
+        }
+      }, {
+        "uid" : "7a7b4a8b272f63cf",
+        "reportUrl" : "https://IYNO-LLC.github.io//1//#testresult/7a7b4a8b272f63cf",
+        "status" : "failed",
+        "statusDetails" : "expected 'REQUEST_ERROR' to be an array",
+        "time" : {
+          "start" : 1611831510089,
+          "stop" : 1611831510104,
+          "duration" : 15
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b855e4cf5f8009b7.json",
+  "parameterValues" : [ ]
+}
