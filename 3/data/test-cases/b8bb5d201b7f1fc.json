@@ -1,0 +1,55 @@
+{
+  "uid" : "b8bb5d201b7f1fc",
+  "name" : "Token is undefined by default",
+  "fullName" : "Token is undefined by default",
+  "historyId" : "644bfdd37a99b8c14d7188fc4611bdbc",
+  "time" : {
+    "start" : 1611831610028,
+    "stop" : 1611831610028,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Testing token"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "3d45e6e28d328153",
+        "reportUrl" : "https://IYNO-LLC.github.io//1//#testresult/3d45e6e28d328153",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611831510106,
+          "stop" : 1611831510106,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b8bb5d201b7f1fc.json",
+  "parameterValues" : [ ]
+}
